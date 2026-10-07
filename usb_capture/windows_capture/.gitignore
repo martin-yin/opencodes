@@ -1,0 +1,5 @@
+usb_driver
+*.json
+*.bin
+*.txt
+__pycache__

@@ -1,0 +1,9 @@
+{
+  "folders": [
+    { "path": "./kbme_device" },
+    { "path": "./kbme_host" }
+  ],
+  "settings": {
+    "idf.espIdfPath": "${env:HOME}/esp/esp-idf",
+  }
+}
